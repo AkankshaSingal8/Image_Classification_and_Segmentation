@@ -57,7 +57,7 @@ This project involves a series of tasks focused on image classification and segm
 - Trained the model using the same procedure and compared the impact on overfitting.
 - Reported accuracy, F1-Score, and confusion matrix on the test set.
 
-### 5. Bonus: Euclidean Distance Analysis
+### 5. Euclidean Distance Analysis
 - Analyzed the misclassified samples from the CNN by calculating Euclidean distances in the feature space.
 - Compared the feature distances for the same samples across all trained models and discussed the results.
 
